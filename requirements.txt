@@ -1,0 +1,9 @@
+numpy
+sounddevice
+pyttsx3
+python-dotenv
+groq
+faster-whisper
+torch
+tokenizers
+requests
